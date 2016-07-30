@@ -1,0 +1,89 @@
+Parnian Zargham
+Phone: (650) 391-6141 | Email: parnianzargham@gmail.com | LinkedIn Profile: http://www.linkedin.com/in/parnianzargham
+
+OBJECTIVE : To obtain a full-time position in the fields of Machine Learning and Natural Language Processing.
+
+SUMMARY OF QUALIFICATIONS
+•
+•
+•
+•
+
+Programming Languages: Python, C/C++, R, MATLAB, SQL, Hive
+Operating Systems: Macintosh, Linux,Windows
+Version Controlling Systems: Git
+Other Skills: Photography, Pottery, Painting
+
+EDUCATION
+Stanford University, CA
+PhD in Electrical Engineering
+
+June 2012-June 2016
+
+MS in Electrical Engineering
+
+Sept 2010-June 2012
+
+Relevant Coursework: Machine learning, Convex Optimization, Digital Image Processing,
+Computational Methods for Biomedical Imaging and Scientific Computing in Python.
+
+PROFESSIONAL EXPERIENCE
+Research Assistant, Magnetic Resonance Systems Research Lab, Stanford, CA
+•
+•
+•
+•
+
+Research Assistant, Biomedical Informatics Research Lab, Southern Illinois University, IL
+•
+
+June 2011-June 2016
+
+Developed a novel method to rapidly estimate MR transmit magnetic field by tracking markers placed on the coils.
+Implemented computer vision techniques to co-register the magnetic fields from pre-computed library to the physical system.
+Worked on entire MR imaging pipeline: Data acquisition, analysis and reconstruction.
+Demonstrated use of Approximate Message Passing Algorithm for Compressed Sensing in Rapid MRI.
+
+June 2009-Sept 2009
+
+Applied image processing algorithms and statistical analysis on MR images for brain tumor detection with image processing.
+
+RELEVANT PROJECTS
+Next Word Predictor Application
+•
+•
+
+Implemented N-grams and Stupid Back-Off models in R to predict the next word using SwiftKey dataset.
+Designed a Shiny application that dynamically predicts the next word based on the incomplete phrase entered by the user.
+
+Electronic Devices Sales Prediction Using Social Media Sentiment Analysis
+•
+•
+
+Developed a method to predict sales of electronic devices before their release based on the sentiment of the comments on Twitter.
+Implemented a machine learning framework based on Recursive Auto-Encoders (RAE) for prediction of sentiment distribution .
+
+Content-Aware Image Resizing
+•
+•
+
+Implemented and optimized content-aware image resizing algorithm.
+Designed an interactive graphical user interface to test the implemented features for image resizing.
+
+CERTIFICATE
+•
+
+Data Science Specialization (Coursera Course Certificates)
+
+VOLUNTEER WORK
+•
+•
+
+	
+
+Member of Board of Director, Persian Student Association, Stanford, CA (300 members)
+President of Movie Group, Persian Student Association, Stanford, CA
+
+Starting May 2016
+
+

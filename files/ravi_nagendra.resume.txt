@@ -1,0 +1,73 @@
+RAVI NAGENDRA
+851 Clyde Avenue | Santa Clara | CA 95054 | Mobile: 315-664-8159
+Email: rnagendr@syr.edu | LinkedIn: http://www.linkedin.com/in/ravinagendra
+
+EDUCATION
+Master of Science - Computer Science
+Syracuse University, L.C Smith School of Engineering and Computer Science- Syracuse, NY
+Bachelor of Engineering - Computer Science
+Sri Jayachamarajendra College of Engineering, Visvesvaraya Technological University, India
+
+May 2016
+GPA 3.75
+June 2009
+GPA 3.7
+
+TECHNICAL SKILLS
+
+
+
+
+Programming Languages: C, C++, C#, Java(Android), Objective-C(IOS), Tizen, Visual Basic, Symbian
+Operating Systems: Unix, Linux, MS Windows
+Tools: Microsoft Visual Studio, Eclipse, GIT, GDB, Code collaborator, Coverity, Klockworks, Clearcase, Synergy.
+
+PROFESSIONAL EXPERIENCE
+Euphony Inc, Software Developer Co-Op
+Feb 2016 – May 2016
+Developed an android app which enabled text to speech synthesis with an option to control speech, pitch and emotion.
+Used the google cloud storage and parse SDK to store and retrieve audio files along with its metadata.
+Intel Corporation, Mobile Cloud Engineering Intern
+May 2015 – August 2015
+Responsible for design and development of malware detection algorithms for the McAfee mobile antivirus software.
+ Designed and implemented Ad-Networks detection algorithm for finding the malwares trying to display spam ads
+in an android app.
+ Implemented the dex parser for parsing any Dalvik Executable (DEX) file of android app and created the detailed
+analysis which was used to find the presence of any malware in the app.
+ Implemented the Social-Networks detection algorithm to identify the theft of user credentials by the hackers.
+ Reverse engineered the android apps using apktool/Java Decompiler to detect the latest threats. Provided the
+privacy score for the apps which indicated the presence of any malware threats.
+Syracuse University, Graduate Research Assistant
+October 2014 – July 2015
+Involved in research of text retrieval system using self-organizing document maps. Responsible for the implementation of
+various text retrieval algorithms such as Kohonen algorithm, Salton’s term-weight algorithm.
+Samsung R&D, Lead Engineer, Multimedia Solutions
+May 2012 – July 2014
+Responsible for design and development of key file-system and camera modules for Samsung’s next-generation Tizen line
+of devices; promoted in 10 months against the company average 24 months.
+ Designed and implemented the camera software for the tizen smartphones, in collaboration with teams from
+Korea, USA and Ukraine. Relocated to Korea for 3 months during this activity.
+ Developed the basic I/O Application programming interfaces required for developers to access file system on the
+Samsung Tizen platform
+ Lead a team consisting of 4 members which was responsible for developing MyFiles application for the Tizen
+Smartphones.
+Nokia R&D, Software Engineer, Platform Development Team
+July 2009 - May 2012
+Researched and implemented innovative features across all platforms of Nokia devices; promoted in 14 months against the
+company average of 20 months.
+ Integrated Near Field Communication (NFC) in the Nokia phone simulator, enabling developers to conveniently
+utilize this technology
+ Developed the device driver for the Multimedia memory card reader, enabling communication between the
+hardware and the operating system
+
+ACADEMIC PROJECTS
+
+
+
+Implemented a code analyzer tool which was responsible for finding relationships between various types like class,
+interface. The tool was used to construct the dependency tree in a compiler.
+Implemented a dependency analyzer tool which involved client server communication using Microsoft windows
+communication framework. The tool was integrated with eclipse IDE to find dependencies between various
+projects.
+
+
